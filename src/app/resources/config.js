@@ -232,7 +232,7 @@ const about = {
     ],
   },
 };
-
+//
 const blog = {
   label: 'Blog',
   title: 'Writing about development and technology...',
